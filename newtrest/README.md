@@ -1,5 +1,3 @@
-# Building a a simple example of sopcial media ...this case Pintrest
-
 == README
 
 This README would normally document whatever steps are necessary to get the
